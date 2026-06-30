@@ -25,8 +25,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
