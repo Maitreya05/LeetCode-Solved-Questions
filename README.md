@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Queue
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
 ## Sliding Window
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
