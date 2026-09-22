@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
