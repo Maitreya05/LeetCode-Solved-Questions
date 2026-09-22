@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
