@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2063-vowels-of-all-substrings](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2063-vowels-of-all-substrings) |
+| [2390-removing-stars-from-a-string](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
