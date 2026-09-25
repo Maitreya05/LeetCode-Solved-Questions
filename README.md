@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
