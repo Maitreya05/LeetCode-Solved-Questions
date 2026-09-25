@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -83,4 +86,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
