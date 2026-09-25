@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -31,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Maitreya05/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
